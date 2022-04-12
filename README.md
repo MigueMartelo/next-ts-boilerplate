@@ -1,6 +1,6 @@
 # Next JS - Boilerplate
 
-Inital configuration with eslint and prettier
+Initial configuration with eslint and prettier
 
 ## Getting Started
 
